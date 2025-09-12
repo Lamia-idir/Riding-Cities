@@ -11,10 +11,10 @@ body {
 	display: flex;
 	justify-content: center;
 }
-
-.container {
+                      /* c'est bon  */
+ .container { 
 	min-width: 992px;
-	max-width: 1440px;
+	max-width: 1440px; 
 }
 
 h2, 
@@ -26,7 +26,7 @@ h3 {
 h2 {
 	text-align: center;
 }
-
+                           /* cest bon */
 
 /*HEADER*/
 header {
@@ -34,7 +34,7 @@ header {
 	width: 100%;
 	height: 880px;
 }
-
+                            /* cest bon */
 header img,
 header .headerTextContent {
 	position: absolute;
@@ -88,7 +88,7 @@ h3 {
 	color: black;
 	margin-bottom: 0;
 }
-
+                              /* c'est bon */
 article {
 	width: 15%;
 	margin: 0px 20px;
@@ -104,7 +104,7 @@ p {
 	line-height: 17px;
 	color: var(--drak-grey-color);
 }
-
+                               /* c'est bon */
 
 /***************/
 .directionRow {
@@ -162,7 +162,7 @@ p {
 
 	text-decoration: none;
 }
-
+                                /* c'est bon  */
 .buttonDrakGreyColor {
 	color: var(--drak-grey-color);
 	border-color: var(--drak-grey-color);
